@@ -1,3 +1,8 @@
 # hello-world
-My Repository;
+My Repository
+
 I'm a public school teacher learning to code.
+
+Over-caffeinated.
+
+Underslept. 
